@@ -1,0 +1,20 @@
+{
+  "hashes": {
+    "SOURCE_DATA_ROOT/data/processed/leg_members.pkl": "1fd8211d7f1bee92ccce6926726aa74c1155c8c100b9c6c735c1ed26c7f6375a",
+    "ORIGINAL_RESEARCH_ROOT/scripts/book_level_analysis.py": "57a22b5d5ae260d9c88a0433118b8acd3c942805b1cd0a139aad60ce60d62cef",
+    "ORIGINAL_RESEARCH_ROOT/research/BOOK_LEVEL_PROTOCOL.md": "fc9ceee0a1c69ef0a99a11bdfcf1b624b22e510f7dcd44934242fdb6332470cf"
+  },
+  "source_files": {
+    "IWV_2013.parquet": "84965dcfb91c3e572a6dfa8b9f084385458fc13c306808ca807943cc9f9ac118",
+    "IWV_2014.parquet": "b27706804e0f40beab081bf888b6be85e6a28a9b5ff9464dc2eb4b471293c9ca",
+    "IWV_2015.parquet": "9bb318c7b62dfb02bea57a1423aff7408f80dc4b8926630f67b0dc51fe5b262f",
+    "IWV_2016.parquet": "67b2f28f386aa412f6e9cdc7ab9719c2faf222d81fee084098cee0aa84019fd3",
+    "IWV_2017.parquet": "b88d731f5f30e2a3009c9e41e2b41ea43540c619b5919e8a9e362bae042ba918",
+    "IWV_2018.parquet": "e40e4cb05557def5384a686df8206952141430eccddd2f9a901186d5b608ba65",
+    "IWV_2019.parquet": "93052774f6f10501745e504a8fc5ffdafda4620b15486d062a41e17cce86f38f",
+    "IWV_2020.parquet": "c9a32f9590bb60b02263d89b7deb54e35b52fb917f255a23fd6492f6329af55a",
+    "IWV_2021.parquet": "68b12f4b4e2d84f8d66f2a449b7af50828d0c87e1e915be9ad53177d18597500",
+    "IWV_2022.parquet": "a08e776e51d188c6d2aad80af43f31df4338c33b17dd41758c3dc18a39d70b0b"
+  },
+  "checks": "Tail additivity, omission identity, PC subspace rotation invariance, symmetric variance bridge and per-name weight effects passed"
+}

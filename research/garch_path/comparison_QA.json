@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "date": "2022-12-30",
+  "fit_end": "2022-01-07",
+  "annual_variance_replays": 45,
+  "endpoint_below_path": true,
+  "method": "Saved annual parameters; observations through assessment cutoff only",
+  "predictions_sha256": "7b614bc0a77115a648f80323bd4e3e67f3e2ab3c4ec87a6ea76d7fe291f11a2c"
+}

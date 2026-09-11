@@ -1,0 +1,18 @@
+[
+  {
+    "model": "p_garch_t",
+    "mean_absolute_probability_change": 0.0031779684163860543,
+    "max_absolute_probability_change": 0.012721810124574184,
+    "repeat_predicted": 0.1666956824948009,
+    "repeat_brier": 0.08383964780846992,
+    "repeat_logloss": 0.30385862930326485
+  },
+  {
+    "model": "p_constant_t",
+    "mean_absolute_probability_change": 0.0030984642266381726,
+    "max_absolute_probability_change": 0.010284724561114844,
+    "repeat_predicted": 0.18476720717818237,
+    "repeat_brier": 0.08756363481114209,
+    "repeat_logloss": 0.31401132002877086
+  }
+]

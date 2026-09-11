@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "raw_pc1_average_corr": 0.9980773300077886,
+  "passed_primary": 36,
+  "future_passed": 2,
+  "checks": [
+    "independent SVD",
+    "all-PC variance identity",
+    "signed leg identity",
+    "PC sign invariance",
+    "tail additivity",
+    "PCA prefix safety"
+  ],
+  "limits": "Not source-vintage/corporate-action certification or out-of-sample validation",
+  "hashes": {
+    "scripts/constituent_pca.py": "a5d6f8cb45e77902cbb16d4562e47d733a082b377076b765379a371c04a123d3",
+    "scripts/summarize_constituent_pca.py": "8f84480810985cb9e82a3304c7c6a5e63ba67498d5c942c41cafce4f2d223f1e",
+    "research/constituent_pca/metrics.parquet": "895464074560ad60f1150b215bd8e4cd1dbfd58b57bdd785fee05228a7d2edc2",
+    "research/constituent_pca/loadings.parquet": "d3a8145be30466f52ecf9aab7bd67262d7b029527612679ea603515cbcf9921c",
+    "research/constituent_pca/gates.json": "9f7e3aebc1444ca2b8744f0b27620f15cce4b2f73cb4e077bd0a6cb913d365a0",
+    "research/constituent_pca/tails.json": "ccbca2a9ae64e176888062ede00f71018f2bf9ab56584d7b000cfdbe703a54d0",
+    "research/constituent_pca/future.json": "1e07a85a1b33b2165997fdcc1c8a86f6ed89801112af0c250afdd0c2ac0ab7ca"
+  }
+}

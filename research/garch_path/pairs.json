@@ -1,0 +1,902 @@
+[
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.0005101670738096399,
+    "lo": -0.0015236561574988867,
+    "hi": 0.0028444206141281323
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.0005101670738096399,
+    "lo": -0.0015561302031303847,
+    "hi": 0.0026628130468984083
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.0005101670738096399,
+    "lo": -0.0015671886624936673,
+    "hi": 0.0028010885369276124
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.007474501807186007,
+    "lo": -0.0028479315226129648,
+    "hi": 0.019635626970567886
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.007474501807186007,
+    "lo": -0.002745005555967835,
+    "hi": 0.01946419920259408
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.007474501807186007,
+    "lo": -0.0032104972265422824,
+    "hi": 0.019497583829143385
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.00012444481827710306,
+    "lo": -0.003179251299285893,
+    "hi": 0.003351174775541108
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.00012444481827710306,
+    "lo": -0.0032054450493700713,
+    "hi": 0.003210302750990702
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.00012444481827710306,
+    "lo": -0.0028157378485954643,
+    "hi": 0.003295178200484855
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.0027504424321615284,
+    "lo": -0.010335587335945532,
+    "hi": 0.01708439712550669
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.0027504424321615284,
+    "lo": -0.011023602863244433,
+    "hi": 0.016219955476540964
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.0027504424321615284,
+    "lo": -0.009985048028155169,
+    "hi": 0.017191245397098622
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.0006223566533093543,
+    "lo": -0.0005231226601145863,
+    "hi": 0.001922866622991135
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.0006223566533093543,
+    "lo": -0.0005063901157497002,
+    "hi": 0.0017809952387214997
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.0006223566533093543,
+    "lo": -0.0003710036379359229,
+    "hi": 0.0018409968115609737
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.006938171272465636,
+    "lo": -0.015390278410355765,
+    "hi": 0.00081854308224627
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.006938171272465636,
+    "lo": -0.015380681799346325,
+    "hi": 0.0006526508491604042
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.006938171272465636,
+    "lo": -0.015784968229973367,
+    "hi": 0.0006472977645074336
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.00046607885728302043,
+    "lo": -0.001599194239207586,
+    "hi": 0.0028653709545234493
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.00046607885728302043,
+    "lo": -0.0016402318412066185,
+    "hi": 0.002690410653650974
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.00046607885728302043,
+    "lo": -0.001665020435804546,
+    "hi": 0.002829576321464448
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.007402724270692718,
+    "lo": -0.0031891454273551096,
+    "hi": 0.019709711974567612
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.007402724270692718,
+    "lo": -0.0029915571137937797,
+    "hi": 0.01943266465435623
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.007402724270692718,
+    "lo": -0.0035007685643742886,
+    "hi": 0.019708001851212797
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": -4.408821652662006e-05,
+    "lo": -0.00014740508015634567,
+    "hi": 7.097256589149424e-05
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": -4.408821652662006e-05,
+    "lo": -0.00014388689082381255,
+    "hi": 6.7124427961328e-05
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": -4.408821652662006e-05,
+    "lo": -0.00014577723689521187,
+    "hi": 6.010037057592811e-05
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -7.177753649328804e-05,
+    "lo": -0.0006529416848577562,
+    "hi": 0.0005775343004460988
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -7.177753649328804e-05,
+    "lo": -0.0005911064148382452,
+    "hi": 0.0005226847329526366
+  },
+  {
+    "subset": "1984_2022",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -7.177753649328804e-05,
+    "lo": -0.0005748563985666726,
+    "hi": 0.00045660769288342684
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": -0.004447258403671318,
+    "lo": -0.008014743830113061,
+    "hi": -3.477710621195884e-05
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": -0.004447258403671318,
+    "lo": -0.007414890798034015,
+    "hi": -0.0007580886749934054
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": -0.004447258403671318,
+    "lo": -0.007008951327001006,
+    "hi": -0.0015486184035753653
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.019317594265678088,
+    "lo": -0.03312633401934957,
+    "hi": -0.0017365431562472626
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.019317594265678088,
+    "lo": -0.030736587105012012,
+    "hi": -0.004961781559497985
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.019317594265678088,
+    "lo": -0.030426504703552543,
+    "hi": -0.008239304768529965
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 13,
+    "difference": -0.0036066609150408597,
+    "lo": -0.0076577822829896084,
+    "hi": 0.0005626715413227262
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 26,
+    "difference": -0.0036066609150408597,
+    "lo": -0.00643829803601452,
+    "hi": -0.0002019082442977162
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 52,
+    "difference": -0.0036066609150408597,
+    "lo": -0.005969578554327165,
+    "hi": -0.0011247045262544003
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.01739744823277412,
+    "lo": -0.03048722516419193,
+    "hi": -0.0011577186640885806
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.01739744823277412,
+    "lo": -0.02796605524743587,
+    "hi": -0.004415108472284178
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.01739744823277412,
+    "lo": -0.02675967361911873,
+    "hi": -0.007365313687885687
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": -0.0037205129869348824,
+    "lo": -0.007003159295176836,
+    "hi": -0.00018807615104631146
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": -0.0037205129869348824,
+    "lo": -0.007100457189076518,
+    "hi": -0.0009267796904014286
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": -0.0037205129869348824,
+    "lo": -0.0070103737223230125,
+    "hi": -0.0010196022745089124
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.00985129666022625,
+    "lo": -0.01837657239757716,
+    "hi": -1.0717752266053026e-07
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.00985129666022625,
+    "lo": -0.018938573175480852,
+    "hi": -0.0012426078041087886
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.00985129666022625,
+    "lo": -0.019282272035492747,
+    "hi": -0.0022273987532227136
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": -0.004526062071825972,
+    "lo": -0.008133332569393425,
+    "hi": 0.00014050836321853686
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": -0.004526062071825972,
+    "lo": -0.007693495411093973,
+    "hi": -0.0006137825318627985
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": -0.004526062071825972,
+    "lo": -0.007355351789910149,
+    "hi": -0.00148443494630786
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.019893100985249202,
+    "lo": -0.0344215996690125,
+    "hi": -0.0016722013914177802
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.019893100985249202,
+    "lo": -0.03262809068584974,
+    "hi": -0.004324567165450776
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.019893100985249202,
+    "lo": -0.031569228034024066,
+    "hi": -0.007749512032344001
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": -7.880366815465469e-05,
+    "lo": -0.00047411063660291554,
+    "hi": 0.0003441826717243698
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": -7.880366815465469e-05,
+    "lo": -0.0005184041988278029,
+    "hi": 0.0004684738083914043
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": -7.880366815465469e-05,
+    "lo": -0.00046149928429441985,
+    "hi": 0.0004172920178082738
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.000575506719571114,
+    "lo": -0.0017945037799246553,
+    "hi": 0.0007383268821409134
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.000575506719571114,
+    "lo": -0.0019652423334523563,
+    "hi": 0.001062551240312731
+  },
+  {
+    "subset": "2023_plus",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.000575506719571114,
+    "lo": -0.001667303825739806,
+    "hi": 0.0007926273621749224
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.00010022181290633483,
+    "lo": -0.001920186333669043,
+    "hi": 0.002373811341537721
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.00010022181290633483,
+    "lo": -0.0019875829840605504,
+    "hi": 0.0022659431550998087
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.00010022181290633483,
+    "lo": -0.0018926848720787622,
+    "hi": 0.0022955666911316196
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.005258978272918438,
+    "lo": -0.004624856517752177,
+    "hi": 0.016585342808671785
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.005258978272918438,
+    "lo": -0.0053668474621416705,
+    "hi": 0.017520421899252542
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.005258978272918438,
+    "lo": -0.005412236941896972,
+    "hi": 0.01695451371474595
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 13,
+    "difference": -0.00018409216735199198,
+    "lo": -0.0033383941825727817,
+    "hi": 0.0028554840023983716
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 26,
+    "difference": -0.00018409216735199198,
+    "lo": -0.0032826587250741196,
+    "hi": 0.0026184159725043724
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "brier",
+    "block": 52,
+    "difference": -0.00018409216735199198,
+    "lo": -0.003016852360459461,
+    "hi": 0.002622696567646251
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.0010843493496114987,
+    "lo": -0.011923763060568774,
+    "hi": 0.015343675194579147
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.0010843493496114987,
+    "lo": -0.011035087507739965,
+    "hi": 0.0147864092416181
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_vol",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.0010843493496114987,
+    "lo": -0.010748195434904512,
+    "hi": 0.01352285100570948
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": 0.0002632309668363787,
+    "lo": -0.0009033016806088869,
+    "hi": 0.0014610607278262102
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": 0.0002632309668363787,
+    "lo": -0.0008008368417783797,
+    "hi": 0.0015543469065504422
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": 0.0002632309668363787,
+    "lo": -0.0007712061357038694,
+    "hi": 0.0014644792276935327
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.007179066864856143,
+    "lo": -0.01471709931755888,
+    "hi": -0.0006434220204664566
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.007179066864856143,
+    "lo": -0.014853795450244085,
+    "hi": 0.00036567164924276917
+  },
+  {
+    "subset": "all",
+    "model": "p_garch_t",
+    "baseline": "p_constant_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.007179066864856143,
+    "lo": -0.014934119813799072,
+    "hi": 0.00031846854481676313
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 13,
+    "difference": 5.3262865404599184e-05,
+    "lo": -0.0020025946718236474,
+    "hi": 0.0023399995740577798
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 26,
+    "difference": 5.3262865404599184e-05,
+    "lo": -0.002067024344778547,
+    "hi": 0.0022285006281459806
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "brier",
+    "block": 52,
+    "difference": 5.3262865404599184e-05,
+    "lo": -0.00197101885564939,
+    "hi": 0.002298490554234833
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 13,
+    "difference": 0.005145545770088393,
+    "lo": -0.004906325345935085,
+    "hi": 0.01662039762801276
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 26,
+    "difference": 0.005145545770088393,
+    "lo": -0.005611673917225052,
+    "hi": 0.0174839311549295
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_fhs",
+    "metric": "logloss",
+    "block": 52,
+    "difference": 0.005145545770088393,
+    "lo": -0.005486293173955357,
+    "hi": 0.017027283751063417
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 13,
+    "difference": -4.6958947501735444e-05,
+    "lo": -0.00014493052707611743,
+    "hi": 6.296602287362017e-05
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 26,
+    "difference": -4.6958947501735444e-05,
+    "lo": -0.00013851103529978167,
+    "hi": 5.532222259073647e-05
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "brier",
+    "block": 52,
+    "difference": -4.6958947501735444e-05,
+    "lo": -0.0001408955199198764,
+    "hi": 5.8106348909926066e-05
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 13,
+    "difference": -0.00011343250283004451,
+    "lo": -0.0006110578476405911,
+    "hi": 0.0004698271141416638
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 26,
+    "difference": -0.00011343250283004451,
+    "lo": -0.0005785576447404209,
+    "hi": 0.0004157837358355681
+  },
+  {
+    "subset": "all",
+    "model": "p_gjr_t",
+    "baseline": "p_garch_t",
+    "metric": "logloss",
+    "block": 52,
+    "difference": -0.00011343250283004451,
+    "lo": -0.0005681331823169086,
+    "hi": 0.0004065074294278388
+  }
+]

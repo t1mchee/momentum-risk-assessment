@@ -1,0 +1,54 @@
+{
+  "files": 10,
+  "rows": 6836497,
+  "original_rows": 6844102,
+  "ambiguous_rows_quarantined": 6429,
+  "tickers": 5699,
+  "first": "2013-01-02",
+  "last": "2022-12-30",
+  "candidate_actions": 289,
+  "accepted_actions": 280,
+  "returns_over_45pct_retained": 1481,
+  "missing_calendar_dates": 172,
+  "verified_action_overrides": [
+    {
+      "date": "2020-04-15",
+      "ticker": "CHK",
+      "price_ratio": 125.99999999999999,
+      "quantity_ratio": 0.004999772628817741,
+      "previous_factor": 1.0,
+      "verified_factor": 200.0,
+      "source": "https://www.sec.gov/Archives/edgar/data/895126/000089512621000078/chk-20201231.htm"
+    },
+    {
+      "date": "2020-04-23",
+      "ticker": "NBR",
+      "price_ratio": 55.57142857142858,
+      "quantity_ratio": 0.01999807542581204,
+      "previous_factor": 1.0,
+      "verified_factor": 50.0,
+      "source": "https://investor.nabors.com/2020-04-20-Nabors-Announces-Results-of-Special-Meeting-of-Shareholders-and-1-for-50-Reverse-Stock-Split-of-its-Common-Shares"
+    },
+    {
+      "date": "2022-05-09",
+      "ticker": "TXMD",
+      "price_ratio": 32.266666666666666,
+      "quantity_ratio": 0.01998765184143774,
+      "previous_factor": 1.0,
+      "verified_factor": 50.0,
+      "source": "https://www.nasdaqtrader.com/TraderNews.aspx?id=ECA2022-89"
+    }
+  ],
+  "fingerprints": {
+    "IWV_2013.parquet": "84965dcfb91c3e572a6dfa8b9f084385458fc13c306808ca807943cc9f9ac118",
+    "IWV_2014.parquet": "b27706804e0f40beab081bf888b6be85e6a28a9b5ff9464dc2eb4b471293c9ca",
+    "IWV_2015.parquet": "9bb318c7b62dfb02bea57a1423aff7408f80dc4b8926630f67b0dc51fe5b262f",
+    "IWV_2016.parquet": "67b2f28f386aa412f6e9cdc7ab9719c2faf222d81fee084098cee0aa84019fd3",
+    "IWV_2017.parquet": "b88d731f5f30e2a3009c9e41e2b41ea43540c619b5919e8a9e362bae042ba918",
+    "IWV_2018.parquet": "e40e4cb05557def5384a686df8206952141430eccddd2f9a901186d5b608ba65",
+    "IWV_2019.parquet": "93052774f6f10501745e504a8fc5ffdafda4620b15486d062a41e17cce86f38f",
+    "IWV_2020.parquet": "c9a32f9590bb60b02263d89b7deb54e35b52fb917f255a23fd6492f6329af55a",
+    "IWV_2021.parquet": "68b12f4b4e2d84f8d66f2a449b7af50828d0c87e1e915be9ad53177d18597500",
+    "IWV_2022.parquet": "a08e776e51d188c6d2aad80af43f31df4338c33b17dd41758c3dc18a39d70b0b"
+  }
+}

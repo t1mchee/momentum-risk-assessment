@@ -1,0 +1,296 @@
+[
+  {
+    "episode": 1,
+    "entry": "1974-01-04",
+    "exit": "1974-09-13",
+    "censored": false,
+    "duration": 37
+  },
+  {
+    "episode": 2,
+    "entry": "1974-09-20",
+    "exit": "1974-10-04",
+    "censored": false,
+    "duration": 3
+  },
+  {
+    "episode": 3,
+    "entry": "1974-10-11",
+    "exit": "1974-12-06",
+    "censored": false,
+    "duration": 9
+  },
+  {
+    "episode": 4,
+    "entry": "1975-01-03",
+    "exit": "1978-06-16",
+    "censored": false,
+    "duration": 181
+  },
+  {
+    "episode": 5,
+    "entry": "1978-09-22",
+    "exit": "1979-11-16",
+    "censored": false,
+    "duration": 61
+  },
+  {
+    "episode": 6,
+    "entry": "1980-03-07",
+    "exit": "1980-10-03",
+    "censored": false,
+    "duration": 31
+  },
+  {
+    "episode": 7,
+    "entry": "1980-12-05",
+    "exit": "1982-06-18",
+    "censored": false,
+    "duration": 81
+  },
+  {
+    "episode": 8,
+    "entry": "1982-08-27",
+    "exit": "1982-10-08",
+    "censored": false,
+    "duration": 7
+  },
+  {
+    "episode": 9,
+    "entry": "1982-10-15",
+    "exit": "1982-11-26",
+    "censored": false,
+    "duration": 7
+  },
+  {
+    "episode": 10,
+    "entry": "1982-12-10",
+    "exit": "1983-04-15",
+    "censored": false,
+    "duration": 19
+  },
+  {
+    "episode": 11,
+    "entry": "1983-05-20",
+    "exit": "1983-06-17",
+    "censored": false,
+    "duration": 5
+  },
+  {
+    "episode": 12,
+    "entry": "1983-07-08",
+    "exit": "1985-05-31",
+    "censored": false,
+    "duration": 100
+  },
+  {
+    "episode": 13,
+    "entry": "1985-07-26",
+    "exit": "1985-10-11",
+    "censored": false,
+    "duration": 12
+  },
+  {
+    "episode": 14,
+    "entry": "1986-05-09",
+    "exit": "1986-06-06",
+    "censored": false,
+    "duration": 5
+  },
+  {
+    "episode": 15,
+    "entry": "1986-08-08",
+    "exit": "1989-09-29",
+    "censored": false,
+    "duration": 165
+  },
+  {
+    "episode": 16,
+    "entry": "1990-03-09",
+    "exit": "1990-04-06",
+    "censored": false,
+    "duration": 5
+  },
+  {
+    "episode": 17,
+    "entry": "1990-11-16",
+    "exit": "1991-12-06",
+    "censored": false,
+    "duration": 56
+  },
+  {
+    "episode": 18,
+    "entry": "1992-01-17",
+    "exit": "1992-12-25",
+    "censored": false,
+    "duration": 50
+  },
+  {
+    "episode": 19,
+    "entry": "1993-04-23",
+    "exit": "1993-07-16",
+    "censored": false,
+    "duration": 13
+  },
+  {
+    "episode": 20,
+    "entry": "1993-10-29",
+    "exit": "1995-08-18",
+    "censored": false,
+    "duration": 95
+  },
+  {
+    "episode": 21,
+    "entry": "1996-01-05",
+    "exit": "1996-01-19",
+    "censored": false,
+    "duration": 3
+  },
+  {
+    "episode": 22,
+    "entry": "1996-03-15",
+    "exit": "1996-07-19",
+    "censored": false,
+    "duration": 19
+  },
+  {
+    "episode": 23,
+    "entry": "1996-12-06",
+    "exit": "1997-02-07",
+    "censored": false,
+    "duration": 10
+  },
+  {
+    "episode": 24,
+    "entry": "1997-02-28",
+    "exit": "1997-04-18",
+    "censored": false,
+    "duration": 8
+  },
+  {
+    "episode": 25,
+    "entry": "1997-05-16",
+    "exit": "1997-07-25",
+    "censored": false,
+    "duration": 11
+  },
+  {
+    "episode": 26,
+    "entry": "1998-10-23",
+    "exit": "1998-12-18",
+    "censored": false,
+    "duration": 9
+  },
+  {
+    "episode": 27,
+    "entry": "1999-01-08",
+    "exit": "1999-01-29",
+    "censored": false,
+    "duration": 4
+  },
+  {
+    "episode": 28,
+    "entry": "1999-02-05",
+    "exit": "1999-02-26",
+    "censored": false,
+    "duration": 4
+  },
+  {
+    "episode": 29,
+    "entry": "1999-03-26",
+    "exit": "1999-04-09",
+    "censored": false,
+    "duration": 3
+  },
+  {
+    "episode": 30,
+    "entry": "1999-04-16",
+    "exit": "1999-10-08",
+    "censored": false,
+    "duration": 26
+  },
+  {
+    "episode": 31,
+    "entry": "2000-01-07",
+    "exit": "2000-01-21",
+    "censored": false,
+    "duration": 3
+  },
+  {
+    "episode": 32,
+    "entry": "2000-01-28",
+    "exit": "2000-02-04",
+    "censored": false,
+    "duration": 2
+  },
+  {
+    "episode": 33,
+    "entry": "2000-03-17",
+    "exit": "2001-04-06",
+    "censored": false,
+    "duration": 56
+  },
+  {
+    "episode": 34,
+    "entry": "2001-04-13",
+    "exit": "2001-08-17",
+    "censored": false,
+    "duration": 19
+  },
+  {
+    "episode": 35,
+    "entry": "2001-10-05",
+    "exit": "2002-04-26",
+    "censored": false,
+    "duration": 30
+  },
+  {
+    "episode": 36,
+    "entry": "2002-05-17",
+    "exit": "2002-05-31",
+    "censored": false,
+    "duration": 3
+  },
+  {
+    "episode": 37,
+    "entry": "2002-07-19",
+    "exit": "2002-07-26",
+    "censored": false,
+    "duration": 2
+  },
+  {
+    "episode": 38,
+    "entry": "2002-08-23",
+    "exit": "2002-09-13",
+    "censored": false,
+    "duration": 4
+  },
+  {
+    "episode": 39,
+    "entry": "2002-10-18",
+    "exit": "2007-12-14",
+    "censored": false,
+    "duration": 270
+  },
+  {
+    "episode": 40,
+    "entry": "2008-01-18",
+    "exit": "2008-05-23",
+    "censored": false,
+    "duration": 19
+  },
+  {
+    "episode": 41,
+    "entry": "2008-07-18",
+    "exit": "2008-11-14",
+    "censored": false,
+    "duration": 18
+  },
+  {
+    "episode": 42,
+    "entry": "2008-11-28",
+    "exit": null,
+    "censored": true,
+    "duration": 736
+  }
+]

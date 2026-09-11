@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "source_hashes": {
+    "research/recent_validation/path.parquet": "f050dc0a784b68e2353b5c75dc4c1930c2ec5c14a65979fac6c67d3be3aab4c8",
+    "research/local_stress/barrier_fixed.parquet": "b5b89d19f605aa2d5b93511cd674a22bf658dae42af298ccd8d5cdcb1c073957",
+    "data/raw/portfolios.zip": "2f5708850280718f25693b0a44d9309995fa8a5bf4d169e00faf6fddba327bf3"
+  },
+  "script_hash": "80c56ab0beb3c46ddae48e5fd4fc1d3ec679bbe50f8e18f1d13610b88513a4d0",
+  "protocol_hash": "c16b7b4d9db3c585a93ae4e74d5535274870747d39d4f6b2e8fcbe9420e017b2",
+  "fits": 86,
+  "n": 2213,
+  "checks": [
+    "All labels replay",
+    "Original baseline probabilities replay",
+    "All fits converged",
+    "One-step variance matches arch",
+    "All simulated endpoint probabilities <= path probabilities",
+    "Source and original forecast hashes unchanged",
+    "Recent Monte Carlo repeat completed"
+  ]
+}

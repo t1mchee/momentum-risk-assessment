@@ -1,0 +1,52 @@
+[
+  {
+    "test": "state_4_1.5_onset",
+    "n": 1837,
+    "events": 53,
+    "exits_with_nonpositive_next_week": null
+  },
+  {
+    "test": "state_4_1.5_exit",
+    "n": 197,
+    "events": 54,
+    "exits_with_nonpositive_next_week": 9
+  },
+  {
+    "test": "state_4_2_onset",
+    "n": 1449,
+    "events": 17,
+    "exits_with_nonpositive_next_week": null
+  },
+  {
+    "test": "state_4_2_exit",
+    "n": 63,
+    "events": 17,
+    "exits_with_nonpositive_next_week": 1
+  },
+  {
+    "test": "state_2_1.5_onset",
+    "n": 1826,
+    "events": 86,
+    "exits_with_nonpositive_next_week": null
+  },
+  {
+    "test": "state_2_1.5_exit",
+    "n": 185,
+    "events": 78,
+    "exits_with_nonpositive_next_week": 11
+  },
+  {
+    "test": "barrier_fixed",
+    "n": 2030,
+    "events": 244,
+    "terminal_events": 149,
+    "breached_but_recovered": 95
+  },
+  {
+    "test": "barrier_scaled",
+    "n": 2030,
+    "events": 146,
+    "terminal_events": 94,
+    "breached_but_recovered": 52
+  }
+]

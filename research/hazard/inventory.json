@@ -1,0 +1,62 @@
+[
+  {
+    "threshold": 5.0,
+    "episodes": 25,
+    "recoveries": 24,
+    "censored": 1,
+    "risk_weeks": 2048,
+    "test_weeks": 1531,
+    "test_recoveries": 14,
+    "test_episodes": 15,
+    "first_test": "1986-09-05",
+    "last_state": {
+      "active": true,
+      "episode": 25,
+      "depth": 40.030000000000655,
+      "age": 735,
+      "level": 304.32499999999897,
+      "peak": 344.3549999999996,
+      "event": 0
+    }
+  },
+  {
+    "threshold": 2.5,
+    "episodes": 42,
+    "recoveries": 41,
+    "censored": 1,
+    "risk_weeks": 2159,
+    "test_weeks": 1703,
+    "test_recoveries": 30,
+    "test_episodes": 31,
+    "first_test": "1984-01-06",
+    "last_state": {
+      "active": true,
+      "episode": 42,
+      "depth": 40.030000000000655,
+      "age": 735,
+      "level": 304.32499999999897,
+      "peak": 344.3549999999996,
+      "event": 0
+    }
+  },
+  {
+    "threshold": 10.0,
+    "episodes": 18,
+    "recoveries": 17,
+    "censored": 1,
+    "risk_weeks": 1883,
+    "test_weeks": 1151,
+    "test_recoveries": 7,
+    "test_episodes": 8,
+    "first_test": "1999-04-30",
+    "last_state": {
+      "active": true,
+      "episode": 18,
+      "depth": 40.030000000000655,
+      "age": 735,
+      "level": 304.32499999999897,
+      "peak": 344.3549999999996,
+      "event": 0
+    }
+  }
+]

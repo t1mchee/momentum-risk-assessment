@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Historical paths",
+    "date": "2022-12-30",
+    "path_probability": 0.3532910388580492,
+    "endpoint_probability": 0.19627279936558287
+  },
+  {
+    "model": "GARCH-t simulated paths",
+    "date": "2022-12-30",
+    "path_probability": 0.32814597827413644,
+    "endpoint_probability": 0.19498352251922374
+  }
+]

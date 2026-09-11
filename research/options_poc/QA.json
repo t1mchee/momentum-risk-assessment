@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Synthetic feasible and infeasible strike curves",
+    "Protection quote-envelope arithmetic",
+    "Latest symbols unique"
+  ],
+  "note": "Computational tests, not data-quality certification"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checks": [
+    "breach leg reconciliation",
+    "low leg reconciliation",
+    "endpoint leg reconciliation",
+    "All paths exactly 20 sessions",
+    "Path minimum matches frozen outcome",
+    "First breach precedes or equals path low",
+    "Rebound leg identity"
+  ]
+}

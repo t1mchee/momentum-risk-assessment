@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Episode state prefix invariance",
+    "All labels strictly after prediction cutoffs",
+    "Only observed outcomes used for training",
+    "Optimizers converged"
+  ],
+  "source_sha256": "ff5c8e4a68aac39bf8775edb00a0a7980c440c345e3c152c9aa6294224506b08"
+}

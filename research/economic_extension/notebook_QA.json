@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "no_widget_figures": 10,
+  "code_cells": 16,
+  "notebook_sha256": "f625bc30c02cd4f774993818461764a9f7a1c997f9d713edf575dfe7d9ca8217",
+  "note": "No-widget execution and separate live-kernel callback smoke checks; no browser-specific frontend certification"
+}

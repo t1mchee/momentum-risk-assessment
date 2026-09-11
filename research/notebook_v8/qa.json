@@ -1,0 +1,7 @@
+{
+  "static_no_widgets": "PASS",
+  "code_cells": 10,
+  "saved_static_images": 5,
+  "delivered_notebook_sha256": "7f3e919142919c7fcd86a9791b1d561548b02f4ecce2e77aa8deeed9067cc459",
+  "notes": "Numerical checks in notebook passed. Interactive callback smoke tests run by execute_companion_v8.py. Static figures visually inspected; browser-specific widget frontend not certified."
+}

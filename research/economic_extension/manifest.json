@@ -1,0 +1,10 @@
+{
+  "protocol": "ECONOMIC_EXTENSION_PROTOCOL.md; exploratory, not fresh holdout",
+  "feature_prefix_checks": "PASS at four historical cutoffs",
+  "hashes": {
+    "scripts/economic_extension.py": "52c3abb2a2fd011308839df707b6b8e2ee74a3c92aaf0f0988b246384c7e1f63",
+    "research/notebook_v8/daily.parquet": "ff5c8e4a68aac39bf8775edb00a0a7980c440c345e3c152c9aa6294224506b08",
+    "research/notebook_v8/evaluation.parquet": "39aea934551de5dea06824db25539a08a51d057f0e7af78aec087c36bdf89220",
+    "research/ECONOMIC_EXTENSION_PROTOCOL.md": "9cc7ecdd282561ba32e75058f4b82f98cf24e9c57f57d655982b16e606dbc000"
+  }
+}

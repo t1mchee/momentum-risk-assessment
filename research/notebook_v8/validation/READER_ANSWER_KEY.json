@@ -1,0 +1,67 @@
+[
+  {
+    "case": "Case 1",
+    "date": "1990-12-31",
+    "group1_enhanced": false,
+    "adverse_leg": "short loser",
+    "warnings": [
+      "One connected episode accounts for more than half the adverse losses",
+      "Dominant leg is not robust to largest-episode removal"
+    ]
+  },
+  {
+    "case": "Case 2",
+    "date": "1995-12-31",
+    "group1_enhanced": true,
+    "adverse_leg": "short loser",
+    "warnings": [
+      "Dominant leg changes with lookback"
+    ]
+  },
+  {
+    "case": "Case 3",
+    "date": "2000-12-31",
+    "group1_enhanced": false,
+    "adverse_leg": "winner long",
+    "warnings": [
+      "Dominant leg changes with lookback",
+      "One connected episode accounts for more than half the adverse losses",
+      "Dominant leg is not robust to largest-episode removal"
+    ]
+  },
+  {
+    "case": "Case 4",
+    "date": "2005-12-31",
+    "group1_enhanced": true,
+    "adverse_leg": "winner long",
+    "warnings": [
+      "One connected episode accounts for more than half the adverse losses"
+    ]
+  },
+  {
+    "case": "Case 5",
+    "date": "2010-12-31",
+    "group1_enhanced": false,
+    "adverse_leg": "winner long",
+    "warnings": [
+      "Dominant leg changes with lookback",
+      "One connected episode accounts for more than half the adverse losses"
+    ]
+  },
+  {
+    "case": "Case 6",
+    "date": "2015-12-31",
+    "group1_enhanced": true,
+    "adverse_leg": "short loser",
+    "warnings": []
+  },
+  {
+    "case": "Case 7",
+    "date": "2020-12-31",
+    "group1_enhanced": false,
+    "adverse_leg": "short loser",
+    "warnings": [
+      "One connected episode accounts for more than half the adverse losses"
+    ]
+  }
+]

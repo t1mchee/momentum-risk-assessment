@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "checks": [
+    "All 36 snapshot name/sector/leg tail totals, concentration denominators and offset bounds",
+    "All accepted common-union bridges reconcile and pass consecutive-date / four-leg coverage gates",
+    "Latest-date tail concentrations and fixed/reselected name-omission sensitivities independently replay",
+    "Synthetic missing-day test invalidates all five spanning five-session windows",
+    "All previously frozen economic-extension forecasts, scenario predictions and source hashes unchanged",
+    "All dated cards respect coverage gate; no stale carry-forward or cross-book forecast mapping"
+  ],
+  "hashes": {
+    "research/book_level/snapshots.json": "c4a2d4107ff1972d86534201e91091299a8d8d3be8623cdb8ef52401eb9ae11a",
+    "research/book_level/bridges.json": "d3894c6dd5af638b359a46ac9ee7dc55332c12691c6cfacb5e5ac330907f4aa9",
+    "scripts/book_level_analysis.py": "2181267766da784fbd5a51efaee5dff7fb8a69badfad43af20b7206ce14c920c",
+    "scripts/book_diagnostics.py": "6cded699a80f6281aa80de2839caab5bc9b399faa3268050cfafd355c81b35ca",
+    "research/BOOK_LEVEL_PROTOCOL.md": "fc9ceee0a1c69ef0a99a11bdfcf1b624b22e510f7dcd44934242fdb6332470cf"
+  }
+}

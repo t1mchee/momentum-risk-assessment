@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "last_source_date": "2026-07-31",
+  "replay": [
+    {
+      "file": "research/notebook_v8/evaluation.parquet",
+      "rows": 2035,
+      "columns": [
+        "p_frequency",
+        "p_logit_ewma",
+        "p_fhs5y_ewma",
+        "q_fhs5y_ewma"
+      ],
+      "max_error": 0.0
+    },
+    {
+      "file": "research/economic_extension/conditional_252.parquet",
+      "rows": 2035,
+      "columns": [
+        "rolling",
+        "dynamic",
+        "vol_response"
+      ],
+      "max_error": 0.0
+    },
+    {
+      "file": "research/local_stress/barrier_fixed.parquet",
+      "rows": 2030,
+      "columns": [
+        "p_vol",
+        "p_fhs"
+      ],
+      "max_error": 0.0
+    }
+  ],
+  "source_sha256": {
+    "momentum.zip": "b039d986db27fc831bcf1f52ba2134916e96fbeba4762fefc942429b0a568a96",
+    "factors.zip": "1916d331c2c51d2aee3d00215897d2b8e5995cb387f1f4569ba46bff5fb049a8",
+    "portfolios.zip": "2f5708850280718f25693b0a44d9309995fa8a5bf4d169e00faf6fddba327bf3"
+  },
+  "protocol_sha256": "3e0692cca2e15ab596df36e67d9789dbb165baaa6c5e27d816f2fdc1c4309017"
+}

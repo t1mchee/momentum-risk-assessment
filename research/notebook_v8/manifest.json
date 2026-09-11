@@ -1,0 +1,39 @@
+{
+  "scope": "Frozen historical illustration; daily cache through 2022-12-30; evaluation through 2022 only",
+  "evaluation_start": "1984-01-03",
+  "evaluation_end": "2022-12-30",
+  "evaluation_weeks": 2035,
+  "source_vintage": {
+    "momentum.zip": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_daily_CSV.zip",
+      "retrieved_utc": "2026-09-11T03:45:51.017590+00:00",
+      "sha256": "b039d986db27fc831bcf1f52ba2134916e96fbeba4762fefc942429b0a568a96"
+    },
+    "factors.zip": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_daily_CSV.zip",
+      "retrieved_utc": "2026-09-11T03:45:52.755542+00:00",
+      "sha256": "1916d331c2c51d2aee3d00215897d2b8e5995cb387f1f4569ba46bff5fb049a8"
+    },
+    "portfolios.zip": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/6_Portfolios_ME_Prior_12_2_Daily_CSV.zip",
+      "retrieved_utc": "2026-09-11T03:45:54.984462+00:00",
+      "sha256": "2f5708850280718f25693b0a44d9309995fa8a5bf4d169e00faf6fddba327bf3"
+    }
+  },
+  "python": "3.12.12",
+  "numpy": "2.5.2",
+  "pandas": "3.0.5",
+  "scenario_method": "annual previous-Dec31 OLS; 300 attempted 26-week block bootstrap refits; seed 20260912; pointwise mean intervals",
+  "hashes": {
+    "data/raw/momentum.zip": "b039d986db27fc831bcf1f52ba2134916e96fbeba4762fefc942429b0a568a96",
+    "data/raw/portfolios.zip": "2f5708850280718f25693b0a44d9309995fa8a5bf4d169e00faf6fddba327bf3",
+    "data/raw/factors.zip": "1916d331c2c51d2aee3d00215897d2b8e5995cb387f1f4569ba46bff5fb049a8",
+    "research/notebook_v8/daily.parquet": "ff5c8e4a68aac39bf8775edb00a0a7980c440c345e3c152c9aa6294224506b08",
+    "research/notebook_v8/evaluation.parquet": "39aea934551de5dea06824db25539a08a51d057f0e7af78aec087c36bdf89220",
+    "research/notebook_v8/scenarios.json": "e90bd18d504080cf25eaf35e11c3831cbe917a81274607548b9fc45ec6da8246",
+    "research/final_distribution_checks/results.json": "0ea0766d52dd06da37b2316ba8734ad70573fbf76650320e5fd394bf60f5e5a5",
+    "research/distribution_panel/results.json": "bc93fb4147a962e3b7ac78bb873e9d483c290510a2319a2bec69701ca892b366",
+    "research/distribution_panel/monthly_profiles.parquet": "888348b9b1899c37850ccdd5654cd307da165a29dd89dca4cacf53c721f1f590",
+    "research/distribution_anatomy/results.json": "9e4cc155b47aafb4850a0c6c8f89770a086ce0de72c928f07a7d1d4f564ab5b5"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-12-30",
+    "target": "barrier_fixed",
+    "barrier_pp": -5.0,
+    "completed_paths": 1260,
+    "path_breach_probability": 0.3532910388580492,
+    "terminal_breach_probability": 0.19627279936558287,
+    "average_path_low_given_breach": -10.344407488492415,
+    "note": "Filtered historical simulation, descriptive prototype; path rescaling and overlapping histories limit calibration."
+  },
+  {
+    "date": "2022-12-30",
+    "target": "barrier_scaled",
+    "barrier_pp": -13.597652312922019,
+    "completed_paths": 1260,
+    "path_breach_probability": 0.07018239492466297,
+    "terminal_breach_probability": 0.04480570975416336,
+    "average_path_low_given_breach": -18.886774343331982,
+    "note": "Filtered historical simulation, descriptive prototype; path rescaling and overlapping histories limit calibration."
+  }
+]

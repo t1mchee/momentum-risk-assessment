@@ -1,0 +1,9 @@
+{
+  "status": "exploratory covered-subset PCA, no clean-book certification",
+  "hashes": {
+    "SOURCE_DATA_ROOT/data/processed/leg_members.pkl": "1fd8211d7f1bee92ccce6926726aa74c1155c8c100b9c6c735c1ed26c7f6375a",
+    "ORIGINAL_RESEARCH_ROOT/scripts/constituent_pca.py": "5d331bb2bacab9aaa8ecba89269614460c315ca7852e98e4cf718ba01784f122",
+    "ORIGINAL_RESEARCH_ROOT/research/PCA_PROTOCOL.md": "db2a043e642281f2aaa7bb3cf26f50505fa8c424dd97263ee7b8b6b19f5444a9"
+  },
+  "checks": "Eigen-risk identity, signed leg additivity, eigenvector-sign invariance passed for every fitted matrix"
+}
